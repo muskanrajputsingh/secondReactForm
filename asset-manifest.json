@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secondReactForm/static/css/main.e64e3538.css",
+    "main.js": "/secondReactForm/static/js/main.f2632745.js",
+    "static/js/787.487037cf.chunk.js": "/secondReactForm/static/js/787.487037cf.chunk.js",
+    "index.html": "/secondReactForm/index.html",
+    "main.e64e3538.css.map": "/secondReactForm/static/css/main.e64e3538.css.map",
+    "main.f2632745.js.map": "/secondReactForm/static/js/main.f2632745.js.map",
+    "787.487037cf.chunk.js.map": "/secondReactForm/static/js/787.487037cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64e3538.css",
+    "static/js/main.f2632745.js"
+  ]
+}
